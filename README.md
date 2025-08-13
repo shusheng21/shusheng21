@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi👋
+# 关于我
+大家好！我喜欢代码，喜欢编程。
+我目前正在学习AI相关的内容，我认为未来AI是一个很好的发展机遇，我们每个人都应该学会去如何应用AI。
+我**系统掌握编程基础（C++/Java）与数据分析方法**，但目前在一家央企从事PLC工业控制系统以及上位机开发工作。我希望将来我能进入互联网大厂从事和我专业相关的工作
+在实践过程中深刻认识到**软件驱动变革的力量**，现系统学习互联网技术栈（Java生态/数据平台），积极寻求转型**互联网开发/数据分析**等岗位，从基础岗位起步积累实战经验。
 
-<!--
-**shusheng21/shusheng21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| 技能领域 | 掌握程度 | 方式 |
+| --- | --- | --- |
+| **编程语言** | Java/C++ | 牛客网编程题00+ |
+| **数据能力** | Pandas熟练 | 工业数据清洗项目报告 |
+| **Web开发** | SpringBoot入门 | 尚硅谷课程实战项目 |
 
-Here are some ideas to get you started:
+其他知识努力学习中，我一定能实现目标！
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
